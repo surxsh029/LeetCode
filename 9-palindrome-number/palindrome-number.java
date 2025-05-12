@@ -6,8 +6,7 @@ class Solution {
         int temp=x;
 
         while(x>0){
-            int digit=x%10;
-            ans=ans*10+digit;
+            ans=ans*10+x%10;
             x=x/10;
           }
           if(ans==temp){
