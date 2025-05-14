@@ -14,10 +14,10 @@ class Solution {
                 count++;
                 continue;
             }
-            if(max<count){
+            if(count >max){
                 max=count;
                 count=1;
-               result=nums[i];
+                result=nums[i];
             }
         }
         if(count>max) return nums[i];
