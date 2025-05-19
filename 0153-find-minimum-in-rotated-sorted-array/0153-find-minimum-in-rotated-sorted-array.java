@@ -3,12 +3,6 @@ class Solution {
 
         Arrays.sort(nums);
 
-        int result=0;
-
-        for(int i =0;i<nums.length;i++){
-            result= nums[0];
-        }
-        
-        return result;
+        return nums[0];
     }
 }
