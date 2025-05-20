@@ -6,12 +6,8 @@ class Solution {
 
         while(col>=0 && row<matrix.length){
 
-            if(matrix[row][col] == target){
-                return true;
-            }
-            else if(matrix[row][col]>target){
-                col--;
-            }
+            if(matrix[row][col] == target) return true;
+            else if(matrix[row][col]>target) col--;
             else  row++;
         }
         return false;
