@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/surxsh029/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/surxsh029/LeetCode/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/surxsh029/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surxsh029/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surxsh029/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/surxsh029/LeetCode/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/surxsh029/LeetCode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
