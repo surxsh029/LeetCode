@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surxsh029/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
