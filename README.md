@@ -82,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/surxsh029/LeetCode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
