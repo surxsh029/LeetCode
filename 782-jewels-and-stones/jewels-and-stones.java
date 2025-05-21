@@ -8,8 +8,6 @@ class Solution {
                 if(jewels.charAt(j)==stones.charAt(i)){
                     count++;
                 }
-
-
             }
         }
         return count;
