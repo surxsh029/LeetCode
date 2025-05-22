@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/surxsh029/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/surxsh029/LeetCode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/surxsh029/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Union Find
 |  |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/surxsh029/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
