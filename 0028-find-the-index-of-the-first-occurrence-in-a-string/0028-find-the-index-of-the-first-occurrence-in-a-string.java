@@ -5,7 +5,7 @@ class Solution {
         
         if (n == 0) return 0;
 
-        for (int i = 0; i <= h - n; i++) {
+        for (int i = 0; i <= h-n ; i++) {
             int j = 0;
             while (j < n && haystack.charAt(i + j) == needle.charAt(j)) {
                 j++;
