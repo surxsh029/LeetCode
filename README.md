@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/surxsh029/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/surxsh029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/surxsh029/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [2032-largest-odd-number-in-string](https://github.com/surxsh029/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/surxsh029/LeetCode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/surxsh029/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/surxsh029/LeetCode/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/surxsh029/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
