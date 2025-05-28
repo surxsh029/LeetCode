@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surxsh029/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/surxsh029/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surxsh029/LeetCode/tree/master/0242-valid-anagram) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surxsh029/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/surxsh029/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/surxsh029/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/surxsh029/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/surxsh029/LeetCode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/surxsh029/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/surxsh029/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
