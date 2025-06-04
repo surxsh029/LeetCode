@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/surxsh029/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/surxsh029/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/surxsh029/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/surxsh029/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/surxsh029/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surxsh029/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/surxsh029/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surxsh029/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2047-find-a-peak-element-ii](https://github.com/surxsh029/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surxsh029/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
