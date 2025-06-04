@@ -12,7 +12,7 @@ class Solution {
             
             if(nums[i]==nums[i+1]){
                 count++;
-                continue;
+               continue;
             }
             if(count >max){
                 max=count;
