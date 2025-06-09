@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/surxsh029/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/surxsh029/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surxsh029/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3227-find-missing-and-repeated-values](https://github.com/surxsh029/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/surxsh029/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/surxsh029/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2047-find-a-peak-element-ii](https://github.com/surxsh029/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/surxsh029/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/surxsh029/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/surxsh029/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/surxsh029/LeetCode/tree/master/2050-count-good-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/surxsh029/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
