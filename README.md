@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/surxsh029/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/surxsh029/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surxsh029/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/surxsh029/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/surxsh029/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/surxsh029/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/surxsh029/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/surxsh029/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2312-most-frequent-number-following-key-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
