@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/surxsh029/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/surxsh029/LeetCode/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/surxsh029/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/surxsh029/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/surxsh029/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/surxsh029/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/surxsh029/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surxsh029/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/surxsh029/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/surxsh029/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surxsh029/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/surxsh029/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/surxsh029/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/surxsh029/LeetCode/tree/master/0392-is-subsequence) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/surxsh029/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/surxsh029/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/surxsh029/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/surxsh029/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surxsh029/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/surxsh029/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/surxsh029/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0234-palindrome-linked-list) |
