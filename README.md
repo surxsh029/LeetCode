@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/surxsh029/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/surxsh029/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/surxsh029/LeetCode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/surxsh029/LeetCode/tree/master/2050-count-good-numbers) |
 ## Memoization
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/surxsh029/LeetCode/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/surxsh029/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
