@@ -3,7 +3,6 @@ class Solution {
         int n = nums.length;
 
         for (int i = 0; i < n; i++) {
-            // Only check next k elements
             for (int j = i + 1; j <= i + k && j < n; j++) {
                 if (nums[i] == nums[j]) {
                     return true;
