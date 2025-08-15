@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surxsh029/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/surxsh029/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/surxsh029/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surxsh029/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/surxsh029/LeetCode/tree/master/0792-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surxsh029/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surxsh029/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/surxsh029/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/surxsh029/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/surxsh029/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/surxsh029/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/surxsh029/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/surxsh029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/surxsh029/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0838-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/surxsh029/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
