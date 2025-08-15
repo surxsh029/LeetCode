@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/surxsh029/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/surxsh029/LeetCode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/surxsh029/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/surxsh029/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -283,8 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/surxsh029/LeetCode/tree/master/0838-design-linked-list) |
+| [0937-online-stock-span](https://github.com/surxsh029/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/surxsh029/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/surxsh029/LeetCode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/surxsh029/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
