@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/surxsh029/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/surxsh029/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/surxsh029/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surxsh029/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/surxsh029/LeetCode/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/surxsh029/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surxsh029/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/surxsh029/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/surxsh029/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surxsh029/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surxsh029/LeetCode/tree/master/0268-missing-number) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/surxsh029/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/surxsh029/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surxsh029/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/surxsh029/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/surxsh029/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surxsh029/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/surxsh029/LeetCode/tree/master/0268-missing-number) |
